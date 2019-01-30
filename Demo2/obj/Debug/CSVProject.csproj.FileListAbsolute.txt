@@ -1,0 +1,7 @@
+C:\Users\Joseph\source\repos\Demo\Demo2\bin\Debug\Demo2.exe.config
+C:\Users\Joseph\source\repos\Demo\Demo2\bin\Debug\Demo2.exe
+C:\Users\Joseph\source\repos\Demo\Demo2\bin\Debug\Demo2.pdb
+C:\Users\Joseph\source\repos\Demo\Demo2\obj\Debug\CSVProject.csproj.CoreCompileInputs.cache
+C:\Users\Joseph\source\repos\Demo\Demo2\obj\Debug\Demo2.exe
+C:\Users\Joseph\source\repos\Demo\Demo2\obj\Debug\Demo2.pdb
+C:\Users\Joseph\source\repos\Demo\Demo2\obj\Debug\CSVProject.csprojAssemblyReference.cache

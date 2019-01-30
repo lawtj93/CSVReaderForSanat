@@ -1,0 +1,7 @@
+Name,Address,EmployeeName,EmployeeGender,EmployeeType,EmployeeSalary,EmployeeDayRate
+StrongSteel,9 Rowing St Newcastle,David,Male,FullTime,80000,,
+ABC Enterprise,123 Savon Ave Sydney,John,Male,FullTime,60000,,
+StrongSteel,9 Rowing St Newcastle,Stacey,Female,FullTime,75000,,
+ZeroIn Solutions,42 Lowin Ave Sydney,Patrice,Female,Contract,,200
+ABC Enterprise,123 Savon Ave Sydney,Stacey,Female,FullTime,70000,,
+ABC Enterprise,123 Savon Ave Sydney,Jake,Male,Contract,,100
